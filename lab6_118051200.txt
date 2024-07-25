@@ -1,0 +1,18 @@
+OPS445 Lab Report - System Information for running ./CheckLab6.py
+=================================================================
+    User login name: ishtiak
+    Linux system name: Ishtiaks-MacBook-Pro.local
+    Python executable: /opt/homebrew/opt/python@3.11/bin/python3.11
+    Python version: 3117
+    OS Platform: darwin
+    Working Directory: /Users/ishtiak/Desktop/ops.new/lab-6-118051200-myseneca-1
+    Start at: Thu Jul 25 19:22:04 2024
+=================================================================
+Student Name: John
+Student Number: 013454900
+GPA of student John is 2.0
+['ops445', 'ops245', 'uli101']
+Student Name: Jessica
+Student Number: 123456
+GPA of student Jessica is 2.5
+['ipc144', 'cpp244']
